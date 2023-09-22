@@ -1,0 +1,13 @@
+* { -webkit-tap-highlight-color: rgba(0,0,0,0); }
+
+body {
+  font-family: "Bangers";
+}
+
+h1 {
+  font-family: "Nabla";
+}
+
+.react-card-flip {
+  height: 100%;
+}
